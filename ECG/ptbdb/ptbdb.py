@@ -170,5 +170,6 @@ for L in range(10):
     F1.append(mean_F1)
     Acc.append(mean_acc)
 
+
 print('Accuracy=', Acc)
 print('F1 score=', F1)
